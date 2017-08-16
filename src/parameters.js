@@ -10,7 +10,7 @@
 //   } else if(greeting !== undefined && name === undefined) {
 //     console.log(`${greeting} friend`);
 //   } else {
-//     console.log('Hello friend')
+//     console.log('Hello friend');
 //   }
 // }
 
